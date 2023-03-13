@@ -59,3 +59,5 @@ If you'd like to contribute to this project, please follow these guidelines:
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Create a pull request to merge your changes into this repository.
+The game was based on pyGuru123 work.
+
