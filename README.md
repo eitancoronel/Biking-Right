@@ -2,7 +2,7 @@
 
 This repository contains all the necessary files and instructions to run the project.
 
-## intoduction
+## Intoduction
 
 We're excited to share that we recently completed a unique project In collaboration with ALYN Hospital! Introducing Biking Right - a new project that aims to make biking more accessible for children with disabilities. One of the main challenges faced by children with disabilities is finding ways to participate in physical activities that are enjoyable and beneficial. Biking Right uses real-time input from a child's bike to create an interactive game that promotes both safe cycling techniques and rehabilitation of the injured leg. Moreover the Physiotherapist can adjust the difficulty of the game to meet the child's abilities. Biking Right helps kids to build confidence and strength while having fun.
 
