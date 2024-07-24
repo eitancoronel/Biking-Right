@@ -1,4 +1,7 @@
 # Biking-right
+The results and a full explanation from this project can be seen here: https://www.youtube.com/watch?v=YA-P0maAes0&ab_channel=EitanCoronel
+
+For any question feel free to reach me on linkedin: https://www.linkedin.com/in/eitan-coronel/
 
 This repository contains all the necessary files and instructions to run the project.
 
